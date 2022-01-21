@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # This script explains what is the OSI model and it is organized
-echo -e "2\n2"
+echo '2'; echo '2'
