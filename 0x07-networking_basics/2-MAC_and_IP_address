@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Explains about addresses
+echo -e "2\n3"

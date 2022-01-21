@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Lists UDP and TCP ports
+sudo netstat -lp
